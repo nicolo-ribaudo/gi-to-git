@@ -5,5 +5,5 @@ When typing git commands I often write `gi status` or `gi tstatus` instead of `g
 ## Installation
 
 ```
-deno install --allow-run=git https://deno.land/gi/index.ts
+deno install --allow-run=git https://deno.land/x/gi_to_git/gi.ts
 ```
